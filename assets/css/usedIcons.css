@@ -1,0 +1,265 @@
+@font-face {
+    font-family: themify;
+    src:  url(../fonts/themify.ttf) format('truetype');
+    font-weight: 400;
+    font-style: normal
+}
+
+[class*=" ti-"], [class^=ti-] {
+    font-family: themify;
+    speak: none;
+    font-variant: normal;
+    text-transform: none
+}
+.ti-user:before {
+    content: "\e602"
+}
+.ti-settings:before {
+    content: "\e60f"
+}
+.ti-support:before {
+    content: "\e6d4"
+}
+.ti-layout-grid2:before {
+    content: "\e709"
+}
+.ti-layout-media-right-alt:before {
+    content: "\e6f9"
+}
+.ti-id-badge:before {
+    content: "\e699"
+}
+
+.ti-comments:before {
+    content: "\e643"
+}
+.ti-support:before {
+    content: "\e6d4"
+}
+.ti-timer:before {
+    content: "\e66e"
+}
+.ti-settings:before {
+    content: "\e60f"
+}
+.ti-user:before {
+    content: "\e602"
+}
+.ti-archive:before {
+    content: "\e6bf"
+}
+.ti-money:before {
+    content: "\e68c"
+}
+.ti-shopping-cart:before {
+    content: "\e60d"
+}
+@font-face {
+    font-family: simple-line-icons;
+    src: url(../icons/simple-line-icons/fonts/Simple-Line-Icons.eot?-i3a2kk);
+    src: url(../icons/simple-line-icons/fonts/Simple-Line-Icons.eot?#iefix-i3a2kk) format('embedded-opentype'), url(../icons/simple-line-icons/fonts/Simple-Line-Icons.ttf?-i3a2kk) format('truetype'), url(../icons/simple-line-icons/fonts/Simple-Line-Icons.woff2?-i3a2kk) format('woff2'), url(../icons/simple-line-icons/fonts/Simple-Line-Icons.woff?-i3a2kk) format('woff'), url(../icons/simple-line-icons/fonts/Simple-Line-Icons.svg?-i3a2kk#simple-line-icons) format('svg');
+    font-weight: 400;
+    font-style: normal
+}
+
+.icon-action-redo, .icon-action-undo, .icon-anchor, .icon-arrow-down, .icon-arrow-down-circle, .icon-arrow-left, .icon-arrow-left-circle, .icon-arrow-right, .icon-arrow-right-circle, .icon-arrow-up, .icon-arrow-up-circle, .icon-badge, .icon-bag, .icon-ban, .icon-basket, .icon-basket-loaded, .icon-bell, .icon-book-open, .icon-briefcase, .icon-bubble, .icon-bubbles, .icon-bulb, .icon-calculator, .icon-calender, .icon-call-end, .icon-call-in, .icon-call-out, .icon-camera, .icon-camrecorder, .icon-chart, .icon-check, .icon-chemistry, .icon-clock, .icon-close, .icon-cloud-download, .icon-cloud-upload, .icon-compass, .icon-control-end, .icon-control-forward, .icon-control-pause, .icon-control-play, .icon-control-rewind, .icon-control-start, .icon-credit-card, .icon-crop, .icon-cup, .icon-cursor, .icon-cursor-move, .icon-diamond, .icon-direction, .icon-directions, .icon-disc, .icon-dislike, .icon-doc, .icon-docs, .icon-drawar, .icon-drop, .icon-earphones, .icon-earphones-alt, .icon-emotsmile, .icon-energy, .icon-envelope, .icon-envelope-letter, .icon-envelope-open, .icon-equalizer, .icon-eye, .icon-eyeglass, .icon-feed, .icon-film, .icon-fire, .icon-flag, .icon-folder, .icon-folder-alt, .icon-frame, .icon-game-controller, .icon-ghost, .icon-globe, .icon-globe-alt, .icon-graduation, .icon-graph, .icon-grid, .icon-handbag, .icon-heart, .icon-home, .icon-hourglass, .icon-info, .icon-key, .icon-layers, .icon-like, .icon-link, .icon-list, .icon-location-pin, .icon-lock, .icon-lock-open, .icon-login, .icon-logout, .icon-loop, .icon-magic-wand, .icon-magnet, .icon-magnifier, .icon-magnifier-add, .icon-magnifier-remove, .icon-map, .icon-menu, .icon-microphone, .icon-mouse, .icon-music-tone, .icon-music-tone-alt, .icon-mustache, .icon-note, .icon-notebook, .icon-options, .icon-options-vertical, .icon-paper-clip, .icon-paper-plane, .icon-paypal, .icon-pencil, .icon-people, .icon-phone, .icon-picture, .icon-pie-chart, .icon-pin, .icon-plane, .icon-playlist, .icon-plus, .icon-power, .icon-present, .icon-printer, .icon-puzzle, .icon-question, .icon-refresh, .icon-reload, .icon-rocket, .icon-screen-desktop, .icon-screen-smartphone, .icon-screen-tablet, .icon-settings, .icon-share, .icon-share-alt, .icon-shield, .icon-shuffle, .icon-size-actual, .icon-size-fullscreen, .icon-social-behance, .icon-social-dribbble, .icon-social-dropbox, .icon-social-facebook, .icon-social-foursqare, .icon-social-github, .icon-social-gplus, .icon-social-instagram, .icon-social-linkedin, .icon-social-pintarest, .icon-social-reddit, .icon-social-skype, .icon-social-soundcloud, .icon-social-spotify, .icon-social-stumbleupon, .icon-social-tumblr, .icon-social-twitter, .icon-social-youtube, .icon-speech, .icon-speedometer, .icon-star, .icon-support, .icon-symble-female, .icon-symbol-male, .icon-tag, .icon-target, .icon-trash, .icon-trophy, .icon-umbrella, .icon-user, .icon-user-female, .icon-user-follow, .icon-user-following, .icon-user-unfollow, .icon-vector, .icon-volume-1, .icon-volume-2, .icon-volume-off, .icon-wallet, .icon-wrench {
+    font-family: simple-line-icons;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+.icon-speedometer:before {
+    content: "\e007"
+}
+.icon-info:before {
+    content: "\e08b"
+}
+
+.icon-speech:before {
+    content: "\e02c"
+}
+.icon-equalizer:before {
+    content: "\e06c"
+}
+.icon-pencil:before {
+    content: "\e05f"
+}
+.icon-trash:before {
+    content: "\e054"
+}
+.icon-people:before {
+    content: "\e001"
+}
+.icon-user-following:before {
+    content: "\e003"
+}
+.icon-user-unfollow:before {
+    content: "\e004"
+}
+.icon-doc:before {
+    content: "\e085"
+}
+.icon-picture:before {
+    content: "\e032"
+}
+.icon-emotsmile:before {
+    content: "\e021"
+}
+
+.mdi-set, .mdi:before {
+    font: normal normal normal 24px/1 "Material Design Icons";
+    font-size: inherit;
+    text-rendering: auto;
+    line-height: inherit;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0)
+}
+
+address, legend {
+    line-height: inherit
+}
+.mdi-view-list:before {
+    content: "\F572"
+}
+.mdi-wechat:before {
+    content: "\F611"
+}
+.mdi-account-multiple-outline:before {
+    content: "\F00F"
+}
+.mdi-message-draw:before {
+    content: "\F363"
+}
+.mdi-web:before {
+    content: "\F59F"
+}
+.mdi-lock:before {
+    content: "\F33E"
+}
+.mdi-pen:before {
+    content: "\F3EA"
+}
+.mdi-unfold-less:before {
+    content: "\F54E"
+}
+.mdi-percent:before {
+    content: "\F3F0"
+}
+.mdi-message-plus:before {
+    content: "\F653"
+}
+.mdi-cash-multiple:before {
+    content: "\F116"
+}
+.mdi-send:before {
+    content: "\F48A"
+}
+.mdi-call-received:before {
+    content: "\F0FA"
+}
+.mdi-timer:before {
+    content: "\F51B"
+}
+.mdi-call-made:before {
+    content: "\F0F7"
+}
+.mdi-phone:before {
+    content: "\F3F2"
+}
+.mdi-credit-card-plus:before {
+    content: "\F675"
+}
+.mdi-package-variant:before {
+    content: "\F3D6"
+}
+.mdi-shopping:before {
+    content: "\F49A"
+}
+@font-face {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    src: local('Poppins Light'), local('Poppins-Light'), url(fonts/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    src: local('Poppins Regular'), local('Poppins-Regular'), url(fonts/pxiEyp8kv8JHgFVrJJfedw.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    src: local('Poppins Medium'), local('Poppins-Medium'), url(fonts/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    src: local('Poppins SemiBold'), local('Poppins-SemiBold'), url(fonts/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 700;
+    src: local('Poppins Bold'), local('Poppins-Bold'), url(fonts/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf) format('truetype')
+}
+.fa, .fab, .fal, .far, .fas {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1
+}
+.fa-stack, .flag-icon, .mdi-set, .mdi:before, .wi {
+    display: inline-block
+}
+.fa-edit:before {
+    content: "\f044"
+}
+.fa-list-alt:before {
+    content: "\f022"
+}
+.fa-bell:before {
+    content: "\f0f3"
+}
+.fa-exclamation:before {
+    content: "\f12a"
+}
+.fa-power-off:before {
+    content: "\f011"
+}
+.fa-chart-area:before {
+    content: "\f1fe"
+}
+.fa-users:before {
+    content: "\f0c0"
+}
+.fa-check:before {
+    content: "\f00c"
+}
+.fa-paper-plane:before {
+    content: "\f1d8"
+}
+.fa-search:before {
+    content: "\f002"
+}
+.fa-eye:before {
+    content: "\f06e"
+}
+.fa-download:before {
+    content: "\f019"
+}
